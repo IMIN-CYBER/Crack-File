@@ -27,6 +27,14 @@ pkg install python3-pip
 
 git clone https://github.com/IMIN-CYBER/Crack-File
 
+cd
+
+ls
+
+cd Crack-File
+
+ls
+
 git pull
 
 pip3 install -r requirements.txt
@@ -46,4 +54,3 @@ CTRL + Z
 #MULAI LAGI JALAN KAN SCRIPTNYA#
 
 python3 Cyber.py
-
