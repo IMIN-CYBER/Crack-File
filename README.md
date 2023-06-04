@@ -15,6 +15,8 @@ LOGIN Cyber.dump.py
 ╭╦═╤━──────────━─═ ◕➤
 Install Script Di Termux
 
+╭⍝╮⎝◣⏝◢⎠╭⍝╮
+
 pkg update && pkg upgrade
 
 pkg install python git -y
