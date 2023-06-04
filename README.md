@@ -12,7 +12,8 @@ LOGIN Cyber.dump.py
 
 [◕] Login Cookies   
 
-###  ╭╦◕➤ ✩✫  Install Script Di Termux
+╭╦═╤━──────────━─═ ◕➤
+Install Script Di Termux
 
 pkg update && pkg upgrade
 
