@@ -19,7 +19,7 @@ Install Script Di Termux
 
 pkg update && pkg upgrade
 
-pkg install python git -y
+pkg install python3 git -y
 
 pkg install python3.py
 
